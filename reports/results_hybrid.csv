@@ -1,0 +1,13 @@
+attack,detector,precision,recall,f1,roc_auc,fpr
+DoS,forest_only,0.0,0.0,0.0,0.9823,0.0147
+DoS,rule_only,1.0,1.0,1.0,1.0,0.0
+DoS,hybrid,0.9283,1.0,0.9628,1.0,0.0147
+Fuzzy,forest_only,0.0766,0.0053,0.01,0.9852,0.0094
+Fuzzy,rule_only,0.9989,0.9864,0.9926,0.9931,0.0002
+Fuzzy,hybrid,0.9382,0.9917,0.9642,0.9974,0.0096
+Gear,forest_only,0.8316,0.9809,0.9001,0.9905,0.0308
+Gear,rule_only,0.0,0.0,0.0,0.5,0.0
+Gear,hybrid,0.8316,0.9809,0.9001,0.9905,0.0308
+RPM,forest_only,0.8285,0.9893,0.9018,0.9899,0.0338
+RPM,rule_only,0.0,0.0,0.0,0.5,0.0
+RPM,hybrid,0.8285,0.9893,0.9018,0.9899,0.0338

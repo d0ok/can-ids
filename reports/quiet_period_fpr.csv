@@ -1,0 +1,5 @@
+attack,quiet_share,lstm_quiet_fpr,if_hybrid_quiet_fpr,if_hybrid_overall_fpr,if_hybrid_burst_fpr
+DoS,0.7052,0.1158,0.0054,0.0194,0.0529
+Fuzzy,0.6856,0.1174,0.0054,0.0096,0.0189
+Gear,0.5084,0.1112,0.005,0.0405,0.0772
+RPM,0.4819,0.1126,0.0049,0.0455,0.0833

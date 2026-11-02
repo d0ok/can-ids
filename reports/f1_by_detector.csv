@@ -1,0 +1,5 @@
+attack,IF v1 (naive),IF v2 (directional),IF v2 + ID rule,LSTM + ID rule*
+DoS,0.0002,0.0,0.9628,0.7542
+Fuzzy,0.7577,0.01,0.9642,0.6749
+Gear,0.0332,0.9001,0.9001,0.6156
+RPM,0.0224,0.9018,0.9018,0.6608

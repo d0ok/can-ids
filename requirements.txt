@@ -1,0 +1,11 @@
+numpy==2.5.4
+pandas==3.1.0
+scikit-learn==1.9.1
+matplotlib==3.11.2
+pyarrow==26.0.0
+joblib==1.6.0
+tensorflow==2.22.0rc0
+jupyterlab==4.6.5
+nbformat==5.11.1
+nbconvert==7.17.2
+ipykernel==7.4.0
